@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi!!! I'm Isuru
 
-<!--
-**Isuru40/Isuru40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile views counter](https://komarev.com/ghpvc/?username=Isuru40&style=flat-square)
 
-Here are some ideas to get you started:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Isuru40&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### I'm an Enthusiast in Factory Automation Systems, Web Development, App Designing, and IoT, based in Australia.
+
+- 🌐 I maintain a blog at [i-d-r.medium.com](https://i-d-r.medium.com/)
+- 🌐 Visit my personal website: [isururanaweera.me](https://isururanaweera.me)
+- ⚙️ I use daily: `.java`, `.js`, `.html`, `.css`, `.py`
+- 🌱 Currently learning all about Open Source
+- 💬 Ping me about development, automation, IoT, web design
+- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/isuru-dhananjaya-ranaweera/)
+- ⚡️ Fun fact: I love exploring new technologies and integrating them into real-world applications
+
+![Holopin Badges](https://holopin.me/Isuru40)
